@@ -1,3 +1,3 @@
 # hello-world
 
-Hello world - This is my first gt hub project .. keep learning!
+Hello world - This is my first git hub project .. keep learning!
